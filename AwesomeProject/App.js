@@ -6,10 +6,10 @@
  * @flow strict-local
  */
 
-import React from 'react';
-import Main from './src/Main';
+import React from "react";
+import Main from "./src/Main";
 
 function App() {
-  return <Main />
+  return <Main />;
 }
 export default App;
