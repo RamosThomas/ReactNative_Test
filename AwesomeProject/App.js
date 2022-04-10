@@ -7,11 +7,9 @@
  */
 
 import React from 'react';
-//import type {Node} from 'react';
+import Main from './src/Main';
 
-import Application from './src/App';
-
-function App (){
-  return <Application/> 
+function App() {
+  return <Main />
 }
 export default App;
