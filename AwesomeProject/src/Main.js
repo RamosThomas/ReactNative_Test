@@ -18,9 +18,7 @@ function Main() {
         style={{ backgroundColor: "white" }}
       >
         <Text style={styles.textHeader}> {page} </Text>
-        <Button title="BUtton" onPress={() => setPage("Profile")}>
-          {" "}
-        </Button>
+        <Button title="BUtton" onPress={() => setPage("Profile")} />
       </ScrollView>
     </SafeAreaView>
   );
