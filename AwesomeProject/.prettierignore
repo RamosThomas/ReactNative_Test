@@ -1,0 +1,10 @@
+__tests__
+.bundle
+android
+ios
+node_modules
+.flowconfig
+.ruby-version
+.watchmanconfig
+.buckconfig
+.gitignore
