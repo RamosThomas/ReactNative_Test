@@ -21,8 +21,21 @@ const styles = StyleSheet.create({
     fontWeight: "900",
     fontSize: 30,
     textAlign: "center",
-    color: "blue",
+    color: "black",
   },
+  box: {
+    fontFamily: "Times New Roman",
+    margin: 50,
+    borderWidth: 5,
+    borderColor: "black",
+    backgroundColor: "pink",
+    borderStyle: "solid",
+  },
+  buttons: {
+    borderRadius: 25,
+    margin: 10,
+  },
+  numbers: {},
 });
 
 export default styles;
